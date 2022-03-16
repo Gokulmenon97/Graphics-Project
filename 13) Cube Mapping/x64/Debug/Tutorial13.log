@@ -1,0 +1,8 @@
+﻿  Renderer.cpp
+D:\Graphics Coursework\13) Cube Mapping\Renderer.cpp(293,251): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Graphics Coursework\13) Cube Mapping\Renderer.cpp(335,273): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(stb_image_aug.obj)' or at 'D:\Graphics Coursework\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(SOIL.obj)' or at 'D:\Graphics Coursework\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_helper.obj)' or at 'D:\Graphics Coursework\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'D:\Graphics Coursework\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  Tutorial13.vcxproj -> D:\Graphics Coursework\x64\Debug\Tutorial 13 - Cube Mapping.exe
